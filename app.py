@@ -24,13 +24,13 @@ st.markdown("""
 
 # Header
 st.title("🎭 Omaha Performing Arts")
-st.subheader("AI Concierge Demo - Meet Aria")
+st.subheader("AI Concierge Demo - Meet Zoe")
 
 # Intro text
 st.markdown("""
 ### Your Digital Usher
 
-Aria is an AI-powered concierge designed to help visitors:
+Zoe is an AI-powered concierge designed to help visitors:
 - **Discover shows** based on preferences and occasions
 - **Get venue information** (parking, accessibility, policies)
 - **Receive personalized recommendations** for date nights, families, or specific genres
@@ -80,4 +80,4 @@ st.components.v1.html("""
 
 # Footer
 st.markdown("---")
-st.markdown("*This is a prototype demonstration. Built with Streamlit & Voiceflow.*")
+st.markdown("*© 2026 Omaha Performing Arts*")
